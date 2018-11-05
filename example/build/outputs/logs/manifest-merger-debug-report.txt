@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\aa67d7d86d787fc147e7a8abe589b29b\AndroidManifest.xml:2:1-11:12
+MERGED from [:rc522] D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\83bb5fca296493d42ae6e048e45de993\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\effa4f099d3676c53ebe90912b82f480\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\603c1e1f83d1f29e00d215f1b43fcd34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\14711a691809ad8f68c95105b94ccb7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\232079002421f65984d720010cf5057a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\440d19bcfa927077d29ac80e96ba3f61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\079daa1ea7929e65a5aa7446e60affd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5f1488fc8bee8170ae9cab41397937f2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bb03e3fd1a1ec8b137761c4a006e4157\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9ef13e1167aec58578373d15de72219e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db231f410fbac30c9a656d1d6f6131c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\861989b3d89e01f2cba0c9a117b8d3c2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.things.permission.USE_PERIPHERAL_IO
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:4:5-94
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:4:22-91
+uses-permission#android.permission.INTERNET
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\aa67d7d86d787fc147e7a8abe589b29b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\aa67d7d86d787fc147e7a8abe589b29b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\effa4f099d3676c53ebe90912b82f480\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\effa4f099d3676c53ebe90912b82f480\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:12:9-40
+uses-library#com.google.android.things
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:13:9-65
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:13:23-63
+activity#com.galarzaa.androidthings.samples.MainActivity
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:14:9-25:20
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:18:27-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.IOT_LAUNCHER
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:20:13-24:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:22:17-80
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:22:27-78
+category#android.intent.category.DEFAULT
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml:23:27-73
+uses-sdk
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\aa67d7d86d787fc147e7a8abe589b29b\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\aa67d7d86d787fc147e7a8abe589b29b\AndroidManifest.xml:7:5-43
+MERGED from [:rc522] D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:rc522] D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\83bb5fca296493d42ae6e048e45de993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\83bb5fca296493d42ae6e048e45de993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\effa4f099d3676c53ebe90912b82f480\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\effa4f099d3676c53ebe90912b82f480\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\603c1e1f83d1f29e00d215f1b43fcd34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\603c1e1f83d1f29e00d215f1b43fcd34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\14711a691809ad8f68c95105b94ccb7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\14711a691809ad8f68c95105b94ccb7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\232079002421f65984d720010cf5057a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\232079002421f65984d720010cf5057a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\440d19bcfa927077d29ac80e96ba3f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\440d19bcfa927077d29ac80e96ba3f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\079daa1ea7929e65a5aa7446e60affd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\079daa1ea7929e65a5aa7446e60affd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5f1488fc8bee8170ae9cab41397937f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5f1488fc8bee8170ae9cab41397937f2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bb03e3fd1a1ec8b137761c4a006e4157\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bb03e3fd1a1ec8b137761c4a006e4157\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9ef13e1167aec58578373d15de72219e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9ef13e1167aec58578373d15de72219e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db231f410fbac30c9a656d1d6f6131c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\db231f410fbac30c9a656d1d6f6131c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\861989b3d89e01f2cba0c9a117b8d3c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\quoct\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\861989b3d89e01f2cba0c9a117b8d3c2\AndroidManifest.xml:20:5-44
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\example\src\main\AndroidManifest.xml

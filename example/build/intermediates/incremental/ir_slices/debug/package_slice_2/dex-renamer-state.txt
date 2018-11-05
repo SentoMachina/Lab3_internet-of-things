@@ -1,0 +1,4 @@
+#Fri Oct 26 10:45:28 ICT 2018
+base.0=E\:\\1.BK\\Mystudy\\HK181\\Iot\\AndStuProjects\\TestSPI\\example\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

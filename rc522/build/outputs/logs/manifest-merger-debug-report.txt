@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+	package
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:11-53
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+	android:versionCode
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml:2:1-55
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		ADDED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
+		INJECTED from D:\Download\Lab3-beta01 (1)\Lab3\Lab3\rc522\src\main\AndroidManifest.xml
